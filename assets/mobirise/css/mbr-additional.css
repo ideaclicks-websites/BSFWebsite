@@ -618,7 +618,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #9fe870;
+  color: #6271e7;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1955,11 +1955,11 @@ a {
   background: #0b60cb;
 }
 .cid-uP8IqyFAuB .bg-twitter {
-  background: #1da1f2;
+  background: #29A71A;
   color: #ffffff;
 }
 .cid-uP8IqyFAuB .bg-twitter:hover {
-  background: #0c85d0;
+  background: #1f8a13;
 }
 .cid-uP8IqyFAuB .bg-instagram {
   background: #f00075;
@@ -1967,6 +1967,13 @@ a {
 }
 .cid-uP8IqyFAuB .bg-instagram:hover {
   background: #bd005c;
+}
+.cid-uP8IqyFAuB .bg-linkedin {
+  background: #0B63BD;
+  color: #ffffff;
+}
+.cid-uP8IqyFAuB .bg-linkedin:hover {
+  background: #054789;
 }
 .cid-uP8IqyFAuB .bg-tiktok {
   background: #000000;
@@ -1981,7 +1988,7 @@ a {
   border-radius: 50%;
   width: 72px;
   height: 72px;
-  line-height: 72px;
+  line-height: 77px;
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
